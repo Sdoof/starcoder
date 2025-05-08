@@ -1,4 +1,4 @@
-tqdm==4.65.0
+tqdm==4.66.3
 transformers==4.28.1
 datasets==2.11.0
 huggingface-hub==0.13.4
